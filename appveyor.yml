@@ -7,8 +7,6 @@ environment:
 install:
   - node --version
   - npm --version
-  - npm install
-  - npm install highlight
   - npm install hexo-cli -g
 
 build_script:
