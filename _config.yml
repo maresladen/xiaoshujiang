@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://betafun.oschina.io/betafunblog
-root: /betafunblog
+url: https://maresladen.github.io/myblog
+root: /myblog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,5 +69,3 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://git.oschina.net/BetaFun/betafunblog.git
-  branch: master
