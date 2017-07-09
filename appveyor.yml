@@ -10,6 +10,7 @@ install:
   - npm install hexo-cli -save
 
 build_script:
+  - pwd
   - hexo generate
 
 artifacts:
