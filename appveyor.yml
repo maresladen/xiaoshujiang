@@ -7,8 +7,7 @@ environment:
 install:
   - node --version
   - npm --version
-  - npm install hexo -save
-  - npm install hexo-cli -g
+  - npm install hexo -save -g
 
 build_script:
   - pwd
