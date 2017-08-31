@@ -64,7 +64,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: alpha-dust
-favicon: /myblog/favicon.png
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
