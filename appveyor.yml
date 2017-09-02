@@ -8,7 +8,7 @@ install:
   - node --version
   - npm --version
   - npm install
-  - npm install hexo -g
+  - npm install -g hexo-cli
   - npm install -- save-dev hexo-util
 
 build_script:
