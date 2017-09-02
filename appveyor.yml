@@ -9,6 +9,7 @@ install:
   - npm --version
   - npm install
   - npm install hexo-cli -g
+  - npm install -- save-dev hexo-util
 
 build_script:
   - hexo generate
