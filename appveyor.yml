@@ -12,7 +12,6 @@ install:
   - npm install -- save-dev hexo-util
 
 build_script:
-  - hexo clean 
   - hexo generate
 
 artifacts:
