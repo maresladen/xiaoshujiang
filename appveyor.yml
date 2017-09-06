@@ -12,6 +12,7 @@ install:
   - npm install -g hexo-cli
   - npm install -- save-dev hexo-util
   - npm install babel-polyfill --save
+  - npm install hexo-fs --save
   - npm install aplayer --save
   # - npm install --save hexo-tag-aplayer@2.0.1
 
