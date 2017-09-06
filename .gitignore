@@ -1,5 +1,4 @@
 *~
 .DS_Store
 lib
-node_modules
-!node_modules/hexo-tag-aplayer/*
+!.gitignore
