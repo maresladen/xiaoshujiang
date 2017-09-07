@@ -12,7 +12,7 @@ install:
   - npm install -g hexo-cli
   - npm install -- save-dev hexo-util
   - npm install aplayer --save
-  - npm install --save hexo-tag-aplayer@2.0.1
+  - npm install --save hexo-tag-aplayer
 
 build_script:
   - hexo generate
