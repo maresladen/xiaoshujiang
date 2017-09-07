@@ -43,4 +43,4 @@
   {% set internal_script = url_for(theme.vendors._internal) + '/' + internal %}
   <script type="text/javascript" src="{{ theme.vendors[name] | default(internal_script) }}"></script>
 {% endfor %}
-  <script type="text/javascript" src="/js/src/particle.js"></script>
+  <script type="text/javascript" src="/myblog/js/src/particle.js"></script>
